@@ -1,4 +1,4 @@
-# CEP Query using ViaCEP API - ReactJS💭
+# CEP Query using ViaCEP API - ReactJS 💭
 
 ## 🌟 About this project
 - This project was developed in **Academia Front-end**, a program from **Accenture** to learn and practice ReactJS fundamentals.
